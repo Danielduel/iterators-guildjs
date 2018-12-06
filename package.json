@@ -1,0 +1,11 @@
+{
+  "name": "iterators-guildjs",
+  "version": "1.0.0",
+  "description": "A set of examples for JS Guild.",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Mizerski",
+  "license": "ISC"
+}
