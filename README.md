@@ -9,4 +9,4 @@ Enjoy
 
 If you find some bugs 🕵️‍ report an issue.
 
-Thanks for your patience 🙇🏻
+Thanks for your atention ^^
